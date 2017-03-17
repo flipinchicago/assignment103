@@ -1,1 +1,2 @@
 file 3 master
+file2 added text to dev branch
